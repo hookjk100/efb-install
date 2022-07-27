@@ -34,9 +34,9 @@ wget https://raw.githubusercontent.com/hookjk100/efb-install/main/install.sh -O 
 
 微信断开，或者需要重启vps后重启服务：
 1.登陆服务器ssh
-2.reboot
-3. screen -S wechat 或者 screen -S tgbot
-4. ehforwarderbot
+2.执行命令：reboot
+3. 执行命令：screen -S wechat 或者 screen -S tgbot
+4. 执行命令：ehforwarderbot
 5.点开服务器上显示的http链接，用微信扫描其中的二维码登陆。
 6.关闭服务器ssh。
 
